@@ -18,6 +18,7 @@ I think that the worlds of OSINT, investigative journalism, applied micro-econom
 * Local LLM built entirely for custom proofing / writing profiles so that you can include institutional style conventions, but also an application that exports them to Word and PDF (I know there are already many tools out there that do this, but I'm having trouble finding ones that let me customize the way that's needed for style guides that are boutique vs. something like grammarly)
 * Excel "power user" tools - including basic data science stuff (e.g. templates / code that can look at a spreadsheet and create a profile based on column names and data, not pulling from CRM - useful for proactive research)
 * Curating datasets for Utah institutions scraped from the internet, for educational purposes (e.g. awards lists)
+* Combine multiple tools into an AI Prospect Research agent, given how agentic AI and research has gained some ground
 
 ***
 # Resources being evaluated right now
