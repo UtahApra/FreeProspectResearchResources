@@ -12,7 +12,7 @@ I think that the worlds of OSINT, investigative journalism, applied micro-econom
 
 ## Current project ideas
 
-*Synthetic prospect research dataset generator: to be used in technical interviews, testing out vendor products or AI, for training purposes, and training models.  
+* Synthetic prospect research dataset generator: to be used in technical interviews, testing out vendor products or AI, for training purposes, and training models.  
 
 ***
 # Resources being evaluated right now
