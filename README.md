@@ -12,7 +12,7 @@ I think that the worlds of OSINT, investigative journalism, applied micro-econom
 
 ## Current project ideas
 
-* Synthetic prospect research dataset generator: to be used in technical interviews, testing out vendor products or AI, for training purposes, and training models.
+* [Synthetic prospect research dataset generator](https://github.com/analyst-greg/FreeProspectResearchResources/wiki/Prospect-Research-Synthetic-Data): to be used in technical interviews, testing out vendor products or AI, for training purposes, and training models.
 * Salary and compensation tool that utilizes public APIs, but also might be interesting to toy with a "disposable income" report generator based on job title, area code, industry, etc - since there is research on sub-sectors of the population and their spending habits
 * Age-based "philanthropic likelihood" and other sociological research incorporated into a report generator, so you could put in the details of a prospect, and it could give you a summary of what their generational cohort tends to do (useful for larger lists / strategic planning, adding context: GenZ is NOT GenX, but that distinction is not always represented in Prospect Research reports and could add some color to boring profiles
 * Local LLM built entirely for custom proofing / writing profiles so that you can include institutional style conventions, but also an application that exports them to Word and PDF (I know there are already many tools out there that do this, but I'm having trouble finding ones that let me customize the way that's needed for style guides that are boutique vs. something like grammarly)
